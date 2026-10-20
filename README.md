@@ -13,7 +13,6 @@ For 143 masses in the test data, 53 of which are malignant, this model detects 5
 - `Data201_Project1_Classification.ipynb`: the full analysis with outputs.
 - `breast_cancer_wdbc.csv`: the dataset.
 - `test_predictions.csv`: predicted probability and class for every test mass from all four models.
-- `roc_curves.png`: ROC curves for the four models on the test set.
 - `Model_Pitch_-_Breast_Mass_Classification.pptx`: the four-slide model pitch.
 
 ## How to run
